@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyJunitTesting" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-19T15:27:59" hostname="DESKTOP-53RSEMS" time="19.092">
+  <properties/>
+  <testcase name="User should submit the form properly" classname="MyJunitTesting" time="19.092"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Aug 19, 2023 9:27:46 PM org.openqa.selenium.remote.service.DriverService$Builder getLogOutput
+INFO: Driver logs no longer sent to console by default; https://www.selenium.dev/documentation/webdriver/drivers/service/#setting-log-output
+Aug 19, 2023 9:27:53 PM org.openqa.selenium.manager.SeleniumManager lambda$runCommand$1
+WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Aug 19, 2023 9:27:59 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 115, so returning the closest version found: 114
+]]></system-err>
+</testsuite>
